@@ -173,7 +173,7 @@
 <body>
 
 <nav>
-  <a href="#" class="logo">Aryan<span>.</span></a>
+  <a href="#" class="logo"Getoz<span>.</span></a>
   <ul>
     <li><a href="#skills">Skills</a></li>
     <li><a href="#works">Work</a></li>
